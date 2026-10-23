@@ -28,3 +28,38 @@ The **NFL Official Casebook** (the source of "Approved Rulings", per rulebook 3-
 
 ## Web sources (Pass 3 verification)
 See the section "Web verification sources" below. It is filled in as research completes.
+
+## Web verification sources (Pass 3, retrieved 2026-10-23)
+
+Most were checked through search-result snippets: direct page fetches failed for many hosts in this environment. Dates are as shown in the snippet or URL; "n.d." means none was visible.
+
+**Kickoff / onside rules (2024–2026)**
+- NFL.com, "NFL announces new playing rules, bylaws, resolutions for 2026" (Mar/Apr 2026): https://www.nfl.com/news/nfl-announces-new-playing-rules-bylaws-resolutions-for-2026
+- PFT, "NFL will allow onside kicks any time, any score" (Mar 2026): https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-will-allow-onside-kicks-any-time-any-score
+- PFT, "NFL passes rule regarding kickoffs from the 50" (2026): https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/nfl-passes-rule-regarding-kickoffs-from-the-50
+- CBS Sports, "NFL rule changes 2026": https://www.cbssports.com/nfl/news/nfl-rule-changes-2026
+- Rams.com, 2026 rule changes (McKay rationale): https://www.therams.com/news/2026-nfl-rule-bylaw-resolution-changes-onside-kick-and-other-kickoff-adjustments-ability-for-league-personnel-to-consult-with-on-field-officials-when-considering-disqualifications-for-both-flagrant-football-acts-and-non-football-acts-without-being-called-on-the-field-among-those-approved
+- SI, "Explaining five new NFL rules for 2026": https://www.si.com/nfl/explaining-five-new-nfl-rules-for-2026-season
+- Steelers Depot, 2025 onside change (May 2025): https://steelersdepot.com/2025/05/nfl-passes-onside-kick-rule-change-proposal
+- NFL.com, 2024 dynamic kickoff explainer ("Only the spot of the kick moves"): https://www.nfl.com/news/2024-nfl-season-explaining-rules-for-new-dynamic-kickoff
+- ESPN, Texans kickoff loophole (2024): https://www.espn.com/nfl/story/_/id/41908327/houston-texans-kickoff-loophole-green-bay-packers-kaimi-fairbairn-week-7
+- Pride of Detroit, Lions kick OOB from the 50 (2025): https://www.prideofdetroit.com/detroit-lions-news/148557/how-detroit-lions-exploited-little-known-kickoff-rule-twice
+- Football Zebras, kickoff from the 50 and double fouls (Nov 2025): https://www.footballzebras.com/2025/11/kickoff-from-the-50-opens-weird-options-for-double-fouls/
+- Football Zebras, 2024 rule changes (setup-zone deflection → B40): https://footballzebras.com/?p=41986
+- Fox News, 2024 dynamic kickoff explainer ("five players on each side"): https://www.foxnews.com/sports/nfls-dynamic-kickoff-explaining-new-rules-heading-2024-season
+- CBS Sports, onside rate 2024 (3 of 50): https://www.cbssports.com/nfl/news/nfl-plans-to-boost-onside-kick-success-rate-after-all-time-low-excitement
+- Yahoo Sports, onside rate 2025 (3 of 45): https://sports.yahoo.com/nfl-revive-dead-onside-kick-171158120.html
+- PFF, kickoff field-position data: https://www.pff.com/news/the-data-behind-the-nfls-kick-return-revolution
+- sportrules.org, NFL overtime rules (n.d.): https://sportrules.org/american-football/nfl-overtime-rules/
+- PFT, "On overtime onside kicks" (n.d., pre-2024): https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/on-overtime-onside-kicks
+
+**Clock, contact, formations**
+- Football Zebras, 10-second runoffs explainer (Oct 2017): https://www.footballzebras.com/2017/10/everything-need-know-10-second-runoffs/
+- ESPN, 2017 multiple-foul clock rule proposal: https://africa.espn.com/nfl/story/_/id/18987087/nfl-competition-committee-proposes-rule-change-prevent-intentional-penalties
+- Boston Globe, Belichick dead-ball loophole banned (2020-05-28): https://www.bostonglobe.com/2020/05/28/sports/nfl-banned-bill-belichicks-dead-ball-loophole-drain-time-off-clock
+- NBC Sports Bay Area, Saints–49ers fake-punt PI (Dec 2019): https://nbcsportsbayarea.com/nfl/49ers-tarvarius-moore-knew-about-pass-interference-rule-on-fake-punt/1255309
+- Football Zebras, Week 9 2017 officiating video (punt-formation PI): https://footballzebras.com/2017/11/week-9-officiating-video-no-pass-interference-punt-formations-legal-contact-penalty-enforcements
+- Wikipedia, Fumblerooski (cites Jerry Markbreit, Chicago Tribune 2007): https://en.wikipedia.org/wiki/Fumblerooski
+- NFL Ops, overtime rules page: https://operations.nfl.com/the-rules/nfl-overtime-rules
+- NFL.com, McKay: no tush-push ban proposal expected in 2026: https://www.nfl.com/news/competition-committee-co-chairman-rich-mckay-doesn-t-expect-tush-push-ban-proposal-in-2026
+- Giants.com, 2023 numbering change (kickers 0–49, 90–99): https://www.giants.com/news/nfl-players-can-now-wear-no-0-among-rule-changes
